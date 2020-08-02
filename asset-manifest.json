@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/annytikone.github.io/covid-19/static/css/main.5f361e03.chunk.css",
+    "main.js": "/annytikone.github.io/covid-19/static/js/main.17dd645b.chunk.js",
+    "main.js.map": "/annytikone.github.io/covid-19/static/js/main.17dd645b.chunk.js.map",
+    "runtime-main.js": "/annytikone.github.io/covid-19/static/js/runtime-main.91e56627.js",
+    "runtime-main.js.map": "/annytikone.github.io/covid-19/static/js/runtime-main.91e56627.js.map",
+    "static/js/2.9f70c426.chunk.js": "/annytikone.github.io/covid-19/static/js/2.9f70c426.chunk.js",
+    "static/js/2.9f70c426.chunk.js.map": "/annytikone.github.io/covid-19/static/js/2.9f70c426.chunk.js.map",
+    "index.html": "/annytikone.github.io/covid-19/index.html",
+    "precache-manifest.584880b2cfe141d977957e37587eff8e.js": "/annytikone.github.io/covid-19/precache-manifest.584880b2cfe141d977957e37587eff8e.js",
+    "service-worker.js": "/annytikone.github.io/covid-19/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/annytikone.github.io/covid-19/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9f70c426.chunk.js.LICENSE.txt": "/annytikone.github.io/covid-19/static/js/2.9f70c426.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91e56627.js",
+    "static/js/2.9f70c426.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.17dd645b.chunk.js"
+  ]
+}
